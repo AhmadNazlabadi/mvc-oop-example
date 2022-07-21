@@ -1,0 +1,12 @@
+{
+    "name": "vahidsalehi/mvc-framework",
+    "description": "php mvc framework",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "App/",
+            "Core\\" : "Core/",
+            "Database\\" : "Database"
+        }
+    }
+}
